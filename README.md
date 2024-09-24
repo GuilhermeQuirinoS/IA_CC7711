@@ -37,10 +37,3 @@ Para cada problema, foram testadas três diferentes arquiteturas de redes neurai
 - **Gráfico da Arquitetura 3**: 
 ![Arquitetura 3]()
 
-## Conclusão
-
-Os resultados obtidos demonstram a eficácia das diferentes arquiteturas de RNA para a aproximação de funções. A comparação dos erros finais mostra quais configurações geraram o melhor desempenho. Para detalhes adicionais, consulte os gráficos acima e o código-fonte disponível no repositório.
-
-## Licença
-
-Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
