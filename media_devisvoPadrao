@@ -1,0 +1,124 @@
+Treinando RNA - Execução 1 para o arquivo teste2.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 30.1351
+Treinando RNA - Execução 2 para o arquivo teste2.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 23.6980
+Treinando RNA - Execução 3 para o arquivo teste2.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 1.8048
+Treinando RNA - Execução 4 para o arquivo teste2.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 46.1676
+Treinando RNA - Execução 5 para o arquivo teste2.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 98.1127
+Treinando RNA - Execução 6 para o arquivo teste2.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 25.6010
+Treinando RNA - Execução 7 para o arquivo teste2.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 76.5040
+Treinando RNA - Execução 8 para o arquivo teste2.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 59.8941
+Treinando RNA - Execução 9 para o arquivo teste2.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 76.2121
+Treinando RNA - Execução 10 para o arquivo teste2.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 2.4756
+Média do erro: 44.0605, Desvio Padrão do erro: 31.1885
+Treinando RNA - Execução 1 para o arquivo teste3.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 304.0497
+Treinando RNA - Execução 2 para o arquivo teste3.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 118.6027
+Treinando RNA - Execução 3 para o arquivo teste3.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 22.0391
+Treinando RNA - Execução 4 para o arquivo teste3.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 466.4028
+Treinando RNA - Execução 5 para o arquivo teste3.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 221.0609
+Treinando RNA - Execução 6 para o arquivo teste3.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 212.7916
+Treinando RNA - Execução 7 para o arquivo teste3.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 9.3161
+Treinando RNA - Execução 8 para o arquivo teste3.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 20.2748
+Treinando RNA - Execução 9 para o arquivo teste3.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 95.0995
+Treinando RNA - Execução 10 para o arquivo teste3.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 125.8332
+Média do erro: 159.5471, Desvio Padrão do erro: 137.6595
+Treinando RNA - Execução 1 para o arquivo teste4.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 33672.4588
+Treinando RNA - Execução 2 para o arquivo teste4.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 152.4527
+Treinando RNA - Execução 3 para o arquivo teste4.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 58725.1280
+Treinando RNA - Execução 4 para o arquivo teste4.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 9286.6735
+Treinando RNA - Execução 5 para o arquivo teste4.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 95458.4463
+Treinando RNA - Execução 6 para o arquivo teste4.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 190.8926
+Treinando RNA - Execução 7 para o arquivo teste4.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 44021.6723
+Treinando RNA - Execução 8 para o arquivo teste4.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 106.3335
+Treinando RNA - Execução 9 para o arquivo teste4.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 132.0057
+Treinando RNA - Execução 10 para o arquivo teste4.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 19662.2736
+Média do erro: 26140.8337, Desvio Padrão do erro: 30450.2900
+Treinando RNA - Execução 1 para o arquivo teste5.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 36663.6488
+Treinando RNA - Execução 2 para o arquivo teste5.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 104.3508
+Treinando RNA - Execução 3 para o arquivo teste5.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 70680.7300
+Treinando RNA - Execução 4 para o arquivo teste5.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 148531.7589
+Treinando RNA - Execução 5 para o arquivo teste5.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 12683.9990
+Treinando RNA - Execução 6 para o arquivo teste5.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 184.5288
+Treinando RNA - Execução 7 para o arquivo teste5.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 26843.4667
+Treinando RNA - Execução 8 para o arquivo teste5.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 81.4438
+Treinando RNA - Execução 9 para o arquivo teste5.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 128.0035
+Treinando RNA - Execução 10 para o arquivo teste5.npy
+Dimensão dos dados: (2, 200, 1)
+Média do erro: 59209.4141
+Média do erro: 35511.1344, Desvio Padrão do erro: 44920.5339
