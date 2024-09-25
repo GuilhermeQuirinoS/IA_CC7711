@@ -29,11 +29,10 @@ Para cada problema, foram testadas três diferentes arquiteturas de redes neurai
 ### Gráficos com os Melhores Resultados
 
 - **Gráfico da Arquitetura 1**: 
-![Arquitetura 1]()
+teste2
 
 - **Gráfico da Arquitetura 2**: 
-![Arquitetura 2]()
+teste2
 
 - **Gráfico da Arquitetura 3**: 
-![Arquitetura 3]()
-
+teste2
